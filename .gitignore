@@ -1,0 +1,14 @@
+*.classpath
+*.project
+.settings/
+/target
+*.springBeans
+*/WebContent
+/.apt_generated
+/bin
+/nb-configuration.xml
+Gigignore
+# Intellij
+.idea/
+*.iml
+*.iws
